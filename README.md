@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TarikJAHID
+- 👋 Hi, I’m @TarikJAHID ; I'm on scopus and google research take a look ;)
 - 👀 I’m interested in Data Analysis and Data Science, Signal and Image Processing and analysis, Web and Mobile Dev, Machine Learning and AI; yeah i swear all of that
 - 🌱 I’m currently learning Flutter and many other frameworks for multiplatform dev
 - 💞️ I’m looking to collaborate on dev projects, research project, remote jobs ...
